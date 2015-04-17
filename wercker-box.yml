@@ -1,7 +1,7 @@
 name : nodejs
-version : 0.2.0
+version : 0.2.1
 description: Latest NodeJS 0.12 version
-inherits : nahody/ubuntu12.04-nodejs0.12@0.2.0
+inherits : nahody/ubuntu12.04-nodejs0.12@0.3.0
 type : main
 platform : ubuntu@12.04
 keywords:
