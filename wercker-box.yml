@@ -1,7 +1,7 @@
 name : nodejs
-version : 4.1.2
+version : 4.1.3
 description: Latest version of NodeJS
-inherits : nahody/ubuntu14.04-nodejs@4.1.1
+inherits : nahody/ubuntu14.04-nodejs@4.1.3
 type : main
 platform : ubuntu@12.04
 keywords:
