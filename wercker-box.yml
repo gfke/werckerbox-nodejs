@@ -1,7 +1,7 @@
 name : nodejs
 version : 5.2.0
 description: Latest version of NodeJS
-inherits : gfke/ubuntu14.04-nodejs@5.2.0
+inherits : gfk-entertainment/ubuntu14.04-nodejs@5.2.0
 type : main
 platform : ubuntu@12.04
 keywords:
